@@ -24,6 +24,8 @@ You can check the website:
         - [x] Rewrite meta tag with description attribute and add test
         - [x] Remove user-scalable in meta tag with viewport attribute
 - [x] Add missing values to images tag (width and height)
+- [x] Remove duplicate CSS lines
+- [x] Replace color white text on too light background to black
 
 
 Have a nice day!
